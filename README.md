@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mesteryui
-- 👀 I’m interested in
-- 🌱 I’m currently learning python
+- 👀 I’m interested in javascript because of ags, nim, and rust
+- 🌱 I’m currently learning python, a little of javascript I believe
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
