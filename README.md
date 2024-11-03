@@ -5,7 +5,7 @@ Hello! I'm Mesteryui, a tech enthusiast passionate about learning new skills. Cu
 
 ---
 
-## 💻 Languages & Technologies | Lenguajes y Tecnologías
+## 💻 Languages & Technologies
 
  ![Java Logo](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
  ![Python Logo](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
