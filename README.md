@@ -1,8 +1,36 @@
-- 👋 Hi, I’m @mesteryui
-- 👀 I’m interested in various things
-- 🌱 I’m currently learning python, also Java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi there! 👋 
+
+## 🌐 About Me
+Hello! I'm Mesteryui, a tech enthusiast passionate about learning new skills. Currently, I'm focused on mastering Java and improving my understanding of Python.
+
+---
+
+## 💻 Languages & Technologies | Lenguajes y Tecnologías
+
+ ![Java Logo](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+ ![Python Logo](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
+## 📊 GitHub Stats | Estadísticas de GitHub
+
+![Oscar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mesteryui&show_icons=true&theme=radical)
+
+<!-- For language stats, you can use: -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mesteryui&layout=compact&theme=radical)
+
+---
+
+## 🎯 Goals
+- 🌱 Currently learning: **Java** and **Object-Oriented Programming**
+- 📈 Improving skills in: **Python** and **Software Development**
+
+---
+
+Feel free to reach out if you want to collaborate or discuss technology. Happy coding! 😊
+
+---
+
 
 <!---
 mesteryui/mesteryui is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
