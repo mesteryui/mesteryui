@@ -2,7 +2,7 @@
 
 ## 🌐 About Me
 Hello! I'm Mesteryui, a tech enthusiast passionate about learning new skills. Currently, I'm focused on mastering Java and improving my understanding of Python.
-
+I speak Spanish and English some of my repositories is in Spanish and in some codes also I used the Spanish
 ---
 
 ## 💻 Languages & Technologies
