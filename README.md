@@ -9,6 +9,8 @@ I speak Spanish and English some of my repositories is in Spanish and in some co
 
 ## 💻 Languages & Technologies
 Aqui inlcuyo los lenguajes y tecnologias que domino o estoy aprendiendo
+
+
  ![Java Logo](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
  ![Python Logo](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
