@@ -1,41 +1,53 @@
-# Hi there! 👋 
+<h1 align="left">Hey 👋 What's up?</h1>
 
-## 🌐 About Me
-Hello! I'm Oscar (a.k.a mesteryui), a tech enthusiast passionate about learning new skills. Currently, I'm focused on mastering Java and improving my understanding of Python.
+###
 
-I speak Spanish and English some of my repositories is in Spanish and in some codes also I used the Spanish.
+<p align="left">Hello! I'm Oscar (a.k.a mesteryui), a tech enthusiast passionate about learning new skills. Currently, I'm focused on mastering Java and improving my understanding of Python.<br><br>I speak Spanish and English some of my repositories is in Spanish and in some codes also I used the Spanish.</p>
 
----
+###
 
-## 💻 Languages & Technologies
-Here I include the languages and technologies I know or am learning.
+<h2 align="left">About me</h2>
 
- ![Java Logo](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
- ![Python Logo](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+###
 
----
+<p align="left">🔍 Looking for develop applications that be useful for me</p>
 
-## 📊 GitHub Stats | Estadísticas de GitHub
+###
 
-![Oscar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mesteryui&show_icons=true&theme=radical)
+<h2 align="left">I code with</h2>
 
-<!-- For language stats, you can use: -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mesteryui&layout=compact&theme=radical)
+###
 
----
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+</div>
 
-## 🎯 Goals
-- 🌱 Currently learning: **Java** and **Object-Oriented Programming**
-- 📈 Improving skills in: **Python** and **Software Development**
+###
 
----
+<h2 align="left">Social</h2>
 
-Feel free to reach out if you want to collaborate or discuss technology. Happy coding! 😊
+###
 
----
+<div align="left">
+  <a href="https://www.linkedin.com/in/%C3%B3scar-rodr%C3%ADguez-cabaleiro/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
 
+###
 
-<!---
-mesteryui/mesteryui is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mesteryui&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=catppuccin_mocha&hide_border=false&order=2" height="150" alt="languages graph"  />
+ 
+  <img src="https://github-readme-stats.vercel.app/api?username=mesteryui&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=catppuccin_mocha&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+ 
+  <img src="https://github-profile-trophy.vercel.app?username=mesteryui&theme=catppuccin_mocha&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+ 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mesteryui&radius=16&theme=catppuccin_mocha&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
